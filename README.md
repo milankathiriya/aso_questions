@@ -8,10 +8,14 @@
 5. Explain types of marketing with examples.
 6. Explain How Many ways Company Earns in Product base. Example of product base.
 
+---
+
 ### Play Console
 1. What are the restrictions of the Google Play console.
 2. Importance of Keywords in ASO?
 3. What do you mean by SEO?
+
+---
  
 ### ADMOB
 1. What is an active user?
@@ -30,17 +34,23 @@
 14. List out the platforms which Provide the ads.
 15. What is the payment Lifecycle for Admob and rules for it?
 
+---
+
 ### Keywords Optimization
 1. What is Keyword Optimization?
 2. Which one is best for Keyword finding?
 3. What is the use of Google AdWords Keyword Planner?
 4. How Many Types of Keywords?
 
+---
+
 ### OnPage & OffPage ASO
 1. What is onPage ASO?
 2. What is Metadata for ASO?
 3. What is OffPage ASO?
 4. What are the Metadata for OffPage ASO?
+
+---
 
 ### Google Ads
 1. What is Google Ads?
@@ -53,6 +63,8 @@
 8. How the Manager Account works in Google Ads and its benefits?
 9. How many other Platforms for Marketing?
 
+---
+
 ### Blogger 
 1. What is a Blogger?
 2. How to use Blogger?
@@ -61,6 +73,8 @@
 5. What is Privacy Policy in Play Console Account?
 6. The Platforms for Generate Privacy Policy?
 7. What is the Length of the Long description in the Play console?
+
+---
 
 ### Freelancing
 1. What is Freelancing?
